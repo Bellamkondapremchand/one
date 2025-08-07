@@ -1043,7 +1043,7 @@
                 </div>
             </div>
             <div class="testimonial-card">
-                <div class="rating">★★★★★</div>
+                <div class="rating">★★★★</div>
                 <p>"Fast shipping and excellent packaging. The product exceeded my expectations. Highly recommend this store!"</p>
                 <div class="user-info">
                     <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="David K." class="user-avatar">
